@@ -1,6 +1,6 @@
-# coding
-
 An implementation of Bret Victor's neat live game editor in Clojurescript.
+
+![A screenshot of it running](./screenshot.png)
 
 Uses [LightTable](http://lighttable.com/) to live edit the code via the browser.
 
